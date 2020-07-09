@@ -1,3 +1,3 @@
 # sum_test
 
-Linux 
+Linux study
